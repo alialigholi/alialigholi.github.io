@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -40,6 +39,8 @@
         padding: 28px 0 60px;
       }
 
+      /* NAV STAYS CENTERED */
+
       .photo-nav {
         text-align: center;
         margin-bottom: 35px;
@@ -59,11 +60,35 @@
         color: #8fdcff;
       }
 
+      /* CONTENT IS LEFT ALIGNED */
+
       .photography-content {
         width: 100%;
         margin: 0 auto;
-        text-align: center;
+        text-align: left;
       }
+
+      .photography-content h1,
+      .photography-content h2,
+      .photography-content h3,
+      .photography-content h4,
+      .photography-content h5,
+      .photography-content h6,
+      .photography-content p,
+      .photography-content ul,
+      .photography-content ol {
+        text-align: left;
+      }
+
+      /* IMAGES STAY CENTERED */
+
+      .photography-content img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      /* GOOGLE SLIDES STAYS CENTERED */
 
       .photography-content iframe {
         display: block;
