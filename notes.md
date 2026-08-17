@@ -8,7 +8,7 @@ title: Notes
    written for the Public Finance and Fiscal Policy course (ECON 741) at UW-Madison as part of the Economics minor.
 
 
-# Math Talk Notes
+# Talk Notes
 - **[Hodge Index Conjecture for Singular Algebraic Varieties.](/hodgeindex.pdf)**
 - **[Deligne's solution to Hilbert 21st problem](/21hilbert.pdf)**
    An introduction to Riemann Hilbert problem.
