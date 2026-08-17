@@ -9,6 +9,6 @@ title: Non-Math
 
 <img src="/assets/img/DSC03953-2.jpg"
      alt="Bikepacking around Lake Michigan"
-     width="500"
+     width="400"
      style="border-radius: 24px; margin-top: 12px;">
 
