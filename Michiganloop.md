@@ -123,19 +123,7 @@ The section from Harbor Springs to Charlevoix is a paved bike trail and was one 
 
 I stayed in a hotel in Charlevoix.
 
-<img
-  src="{{ '/assets/img/DSC03953-2.jpg' | relative_url }}"
-  alt="Bikepacking around Lake Michigan"
-  style="
-    width: 850px;
-    max-width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 24px;
-    margin: 35px auto;
-  "
->
-
+<img src="/assets/img/DSC03953-2.jpg" alt="Bikepacking around Lake Michigan" style="width:850px; max-width:100%; height:auto; display:block; border-radius:24px; margin:35px auto;">
 
 
 
