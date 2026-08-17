@@ -1,1 +1,124 @@
 
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <title>{{ page.title }} | {{ site.title }}</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    >
+
+    {% if site.font == "Sans Serif" %}
+      <link rel="stylesheet" href="{{ '/assets/css/font_sans_serif.css' | relative_url }}">
+    {% else %}
+      <link rel="stylesheet" href="{{ '/assets/css/font.css' | relative_url }}">
+    {% endif %}
+
+    {% if site.auto_dark_mode %}
+      <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% else %}
+      <link rel="stylesheet" href="{{ '/assets/css/style-no-dark-mode.css' | relative_url }}">
+    {% endif %}
+
+    <style>
+      html,
+      body {
+        background: #20212b;
+        color: #dadbdf;
+        margin: 0;
+        min-height: 100%;
+      }
+
+      .photography-page {
+        width: min(1100px, calc(100% - 40px));
+        margin: 0 auto;
+        padding: 28px 0 60px;
+      }
+
+      .photo-nav {
+        text-align: center;
+        margin-bottom: 35px;
+        white-space: nowrap;
+      }
+
+      .photo-nav a {
+        display: inline-block;
+        margin: 0 14px;
+        color: #3eb7f0;
+        font-size: 15px;
+        font-weight: 500;
+        text-decoration: none;
+      }
+
+      .photo-nav a:hover {
+        color: #8fdcff;
+      }
+
+      .photography-content {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+      }
+
+      .photography-content iframe {
+        display: block;
+        width: 100%;
+        max-width: 1000px;
+        height: 620px;
+        margin: 0 auto;
+        border: 0;
+        border-radius: 12px;
+      }
+
+      @media screen and (max-width: 700px) {
+        .photography-page {
+          width: calc(100% - 24px);
+          padding-top: 20px;
+        }
+
+        .photo-nav a {
+          margin: 0 8px;
+          font-size: 14px;
+        }
+
+        .photography-content iframe {
+          height: 420px;
+        }
+      }
+
+      @media screen and (max-width: 480px) {
+        .photo-nav a {
+          margin: 0 5px;
+          font-size: 13px;
+        }
+
+        .photography-content iframe {
+          height: 300px;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <div class="photography-page">
+
+      <nav class="photo-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/notes.html' | relative_url }}">Notes</a>
+        <a href="{{ '/non-math.html' | relative_url }}">Non-Math</a>
+      </nav>
+
+      <main class="photography-content">
+        {{ content }}
+      </main>
+
+    </div>
+
+  </body>
+</html>
