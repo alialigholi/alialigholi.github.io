@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: nonmath
 title: Non-Math
 ---
 
