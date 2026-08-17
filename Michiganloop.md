@@ -8,7 +8,7 @@ title: Stories
 I biked the northern part of Lake Michigan in late May and early June 2026 over 12 days. I made it a loop by taking the ferry from Muskegon to Milwaukee. Here are the details.
 
 <img
-  src="/assets/img/michiganmap.png"
+  src="{{ '/assets/img/michiganmap.png' | relative_url }}"
   alt="Lake Michigan bike tour route"
   style="
     width: 850px;
@@ -135,7 +135,7 @@ The section from Harbor Springs to Charlevoix is a paved bike trail and was one 
 I stayed in a hotel in Charlevoix.
 
 <img
-  src="/assets/img/DSC03953-2.jpg"
+  src="{{ '/assets/img/DSC03953-2.jpg' | relative_url }}"
   alt="Bikepacking around Lake Michigan"
   style="
     width: 850px;
