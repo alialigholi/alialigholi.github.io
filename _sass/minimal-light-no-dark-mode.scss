@@ -180,7 +180,7 @@ papertitle {
 }
 
 .image {
-  border-radius: 0;
+  border-radius: 0.35em;
   border: 0;
   display: inline-block;
   position: relative;
@@ -188,7 +188,7 @@ papertitle {
 
 .image:before {
   transition: opacity 0.2s ease-in-out;
-  border-radius: 0;
+  border-radius: 0.35em;
   content: "";
   display: block;
   height: 100%;
@@ -202,8 +202,8 @@ papertitle {
 /* ===== AVATAR ===== */
 
 .image.avatar {
-  border-radius: 0;
   width: 300px;
+  border-radius: 8px;
 }
 
 .image.avatar:before {
@@ -212,16 +212,24 @@ papertitle {
 
 .image.avatar img {
   display: block;
-  border-radius: 0;
   width: 300px;
   height: 300px;
   object-fit: cover;
   padding: 0;
+  border-radius: 8px;
+  border: 1px solid #d0d0d0;
 }
 
-#header .image.avatar {
+#header .image.avatar,
+header .image.avatar {
   margin: 0 0 1.5em 0;
   width: 300px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .image.avatar img {
+    border: 1px solid #555;
+  }
 }
 
 /* ================== */
@@ -507,14 +515,20 @@ footer {
 
   .image.avatar {
     width: 220px;
+    border-radius: 8px;
   }
 
   .image.avatar img {
-    border-radius: 0;
     width: 220px;
     height: 220px;
     object-fit: cover;
     padding: 0;
+    border-radius: 8px;
+  }
+
+  #header .image.avatar,
+  header .image.avatar {
+    width: 220px;
   }
 
   #head1o2,
@@ -569,14 +583,20 @@ footer {
 
   .image.avatar {
     width: 180px;
+    border-radius: 8px;
   }
 
   .image.avatar img {
-    border-radius: 0;
     width: 180px;
     height: 180px;
     object-fit: cover;
     padding: 0;
+    border-radius: 8px;
+  }
+
+  #header .image.avatar,
+  header .image.avatar {
+    width: 180px;
   }
 
   #head1o2,
