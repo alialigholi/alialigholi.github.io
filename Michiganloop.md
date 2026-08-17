@@ -2,74 +2,197 @@
 layout: photography
 title: Stories
 ---
-Lake Michigan bike tour 2026
-I biked the northern part of Lake Michigan in late May/June 2026 in 12 days. I made it a loop by taking the ferry from Muskegon to Milwaukee. Here's the details.
 
+# Lake Michigan Bike Tour 2026
 
+I biked the northern part of Lake Michigan in late May and early June 2026 over 12 days. I made it a loop by taking the ferry from Muskegon to Milwaukee. Here are the details.
 
+<img
+  src="{{ '/assets/img/Screenshot%202026-06-06%20110927.png' | relative_url }}"
+  alt="Lake Michigan bike tour route"
+  style="
+    width: 850px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 24px;
+    margin: 35px auto;
+  "
+>
 
+## Day 1 — Madison to Fond du Lac
 
+I started on the morning of Memorial Day from Madison and made it to Fond du Lac, around 77 miles.
 
+The last 15 miles were on the light gravel of the Wild Goose Trail, which is beautiful.
 
+I stayed at a hotel.
 
+## Day 2 — Fond du Lac to Green Bay
 
+Around 80 miles.
 
+The shorter route suggested by Google Maps and Ride with GPS was on the right side of Lake Winnebago, but I wanted to visit Oshkosh.
 
+I visited the EAA Aviation Museum, which was very cool.
 
+Google Maps took me along the airport on Knapp Street, which **does not** provide public access to the museum. It goes through the aviation campground, so following that route means trespassing.
 
+This was the first sign that I should have avoided using Google Maps for this trip.
 
-Day 1: I started in the morning of Memorial Day from Madison and made it to Fond du Lac, around 77 miles. The last 15 miles are on the light gravel of the Wild Goose Trail, which is beautiful. I stayed at a hotel.
+The last 12 miles of the Fox River Trail into Green Bay are paved, and that was the only section I rode. I also had to ride through severe rain.
 
-Day 2: From Fond du Lac to Green Bay, around 80 miles. The suggested shorter route by Google Maps/RWG was on the right side of Lake Winnebago, but I wanted to visit Oshkosh. I visited the EAA Aviation Museum, which was very cool. GM took me along the airport on Knapp St., which DOES NOT have public access to the museum; it goes through the aviation campground, which is trespassing! This was the first sign I should’ve avoided using GM. The last 12 miles of the Fox River Trail to Green Bay are paved, and that is the only segment I took, although I weathered through severe rain! I stayed at a hotel after an exhausting day.
+I stayed at a hotel after an exhausting day.
 
-Day 3: From Green Bay to North Bay Shore Campground, about 50 miles. I camped at North Bay Shore, which was a fantastic site.
+## Day 3 — Green Bay to North Bay Shore Campground
 
-Day 4: From North Bay Shore to Cedar River, about 50 miles. This was the WORST day of the trip because of Google Maps. The correct route is on M-35, but GM does not recommend going on highways for bicycles and takes you inland. INLAND = HILLS + UNPAVED. The farmland routes here are not paved and have very loose gravel. First, I got chased by an unleashed shepherd DOG on one of the farmland county roads, and then I got a flat tire on one of the worst gravel routes near Cedar River Park. I got stuck there with no internet connection, and it was getting dark. Finally, a guy named TONY saved me. He took me to a local motel in Cedar River. Thank you, Tony!
+About 50 miles.
 
-Day 5: From Cedar River to Vagabond Campground, around 55 miles. After surviving the previous night, I put aside Google Maps and started using only Ride with GPS. I continued along M-35. Highly recommend the Vagabond Campground.
+I camped at North Bay Shore Campground, which was a fantastic site.
 
-Day 6: From Vagabond Campground to Manistique, around 45 miles along US 2. The bike shoulders of US 2 on the first 20 miles of this segment are very bad and are under construction. Most of it is rumble strips, which makes it very hard and slow to ride. I stayed in a hotel in Manistique, which has nice beach access.
+## Day 4 — North Bay Shore to Cedar River
 
-Day 7: From Manistique to St. Ignace, around 91 miles along US 2. This route segment is very scenic and fun to ride. First, I planned to cross the Mackinac Bridge and stay in a hotel in Mackinaw City, but then I used Google Maps in the city once more, and it screwed me AGAIN! Bikes are not allowed to cross the bridge, and you need to go to the Bridge Authority building, where they take you across the bridge for $15. Getting to that building by bike is very nontrivial. Google Maps suggests going on the right side, to Straits State Park. The building is just behind the camping sites, so you can walk there easily. A little PROBLEM: There are fences with "No Trespassing" signs! I don't know how Google Maps has become so unreliable. It was dark, and I was forced to camp at Straits State Park next to the bridge, which turned out to be a much better option than my original plan, so sometimes making a mistake is not bad after all.
+About 50 miles.
 
-Day 8: From St. Ignace to Charlevoix, around 70 miles. The correct way to reach the Bridge Authority building is by going there on the left side near Bridge View Park. The suggested route from Mackinaw City to Petoskey is along a bike path with loose gravel. I avoided that and followed U.S. Bicycle Route 35. The part from Harbor Springs to Charlevoix is a paved bike trail, which is among the most scenic parts of the trip. I stayed in a hotel in Charlevoix.
+This was the **worst day of the trip**, mostly because of Google Maps.
 
+The correct route is along M-35, but Google Maps tries to avoid highways for bicycles and instead sends you inland.
 
+**Inland = hills + unpaved roads.**
 
+The farmland roads in this area are often unpaved and covered with very loose gravel.
 
+First, I was chased by an unleashed shepherd dog on one of the farmland county roads.
 
+Then I got a flat tire on one of the worst gravel roads near Cedar River Park.
 
+I got stuck there with no internet connection, and it was getting dark.
 
+Finally, a guy named **Tony** saved me. He picked me up and took me to a local motel in Cedar River.
 
+Thank you, Tony!
 
+## Day 5 — Cedar River to Vagabond Campground
 
+Around 55 miles.
 
+After surviving the previous night, I stopped relying on Google Maps and started using only Ride with GPS.
 
+I continued along M-35.
 
+I highly recommend Vagabond Campground.
 
+## Day 6 — Vagabond Campground to Manistique
 
+Around 45 miles along US 2.
 
+The bike shoulders along the first 20 miles of this section of US 2 were very bad and under construction.
 
+Much of the shoulder consisted of rumble strips, which made riding difficult and slow.
 
+I stayed in a hotel in Manistique, which has nice beach access.
 
+## Day 7 — Manistique to St. Ignace
 
+Around 91 miles along US 2.
 
+This section is very scenic and fun to ride.
 
+My original plan was to cross the Mackinac Bridge and stay in a hotel in Mackinaw City.
 
+Then I used Google Maps inside St. Ignace one more time, and it screwed me **again**.
 
+Bicycles are not allowed to cross the Mackinac Bridge on their own. You need to go to the Bridge Authority building, where they transport you and your bike across the bridge for $15.
 
+Getting to that building by bicycle is surprisingly nontrivial.
 
+Google Maps suggested approaching from the right side through Straits State Park. The building is directly behind the camping sites, so it looks as if you could simply walk there.
 
+One small problem:
 
+**There are fences with "No Trespassing" signs.**
 
+I still don't understand how Google Maps became so unreliable for this trip.
 
+It was already dark, so I was forced to camp at Straits State Park next to the bridge.
 
+That actually turned out to be a much better option than my original plan.
 
+Sometimes making a mistake is not bad after all.
 
-Day 9: From Charlevoix to Traverse City, around 57 miles along Route 35. I stayed in a hotel in Traverse City.
+## Day 8 — St. Ignace to Charlevoix
 
-Day 10: From Traverse City to Manistee, around 70 miles. Route 35 goes north to Suttons Bay and Sleeping Bear Dunes. I needed to be back in Madison ASAP and didn't have much energy to do hiking in Sleeping Bear Dunes, so I decided to skip it and go straight to Manistee. Again, since we're going inland, there will be hills. But going south is much easier, as most of the time you are losing elevation. If you are doing the loop counterclockwise and heading north, it's much better to follow the Route 35 route and visit Sleeping Bear Dunes. I stayed in a hotel in Manistee, as I heard there are lots of mosquitoes near the campgrounds of Sleeping Bear Dunes.
+Around 70 miles.
 
-Day 11: From Manistee to Muskegon, around 100 miles! This was the longest route I did. The first 55 miles from Manistee to Hart are boring, but the next 45 miles from Hart to Muskegon are on a nice paved bike trail, which is smooth sailing. Again, the southbound direction is mostly downhill and a very easy ride. If you are going north, this would be a little challenging. I stayed in a hotel in Muskegon.
+The correct way to reach the Bridge Authority building is from the left side, near Bridge View Park.
 
-Day 12: I took the Lake Express ferry from Muskegon to Milwaukee. It was raining in Milwaukee, and I was very tired. I decided to take the Badger Bus from Milwaukee to Madison (you can take your bike on the bus for $10).
+The suggested route from Mackinaw City to Petoskey follows a bike path with loose gravel.
+
+I avoided that and instead followed U.S. Bicycle Route 35.
+
+The section from Harbor Springs to Charlevoix is a paved bike trail and was one of the most scenic parts of the entire trip.
+
+I stayed in a hotel in Charlevoix.
+
+<img
+  src="{{ '/assets/img/DSC03953-2.jpg' | relative_url }}"
+  alt="Bikepacking around Lake Michigan"
+  style="
+    width: 850px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 24px;
+    margin: 35px auto;
+  "
+>
+
+## Day 9 — Charlevoix to Traverse City
+
+Around 57 miles along Route 35.
+
+I stayed in a hotel in Traverse City.
+
+## Day 10 — Traverse City to Manistee
+
+Around 70 miles.
+
+Route 35 goes north toward Suttons Bay and Sleeping Bear Dunes.
+
+I needed to get back to Madison as soon as possible and didn't have much energy left for hiking in Sleeping Bear Dunes, so I decided to skip it and go directly to Manistee.
+
+Because the direct route goes inland, there are hills.
+
+However, going south is much easier because you are generally losing elevation.
+
+If you are doing the loop counterclockwise and heading north, I think it is better to follow Route 35 and visit Sleeping Bear Dunes.
+
+I stayed in a hotel in Manistee because I had heard there were lots of mosquitoes around the campgrounds near Sleeping Bear Dunes.
+
+## Day 11 — Manistee to Muskegon
+
+Around **100 miles**.
+
+This was the longest day of the entire trip.
+
+The first 55 miles from Manistee to Hart were fairly boring.
+
+The next 45 miles from Hart to Muskegon were on a very nice paved bike trail.
+
+That section was smooth sailing.
+
+Again, traveling southbound is mostly downhill and makes for a relatively easy ride.
+
+If you are traveling north, it would be more challenging.
+
+I stayed in a hotel in Muskegon.
+
+## Day 12 — Muskegon to Milwaukee to Madison
+
+I took the Lake Express ferry from Muskegon to Milwaukee.
+
+It was raining in Milwaukee, and I was very tired.
+
+I decided to take the Badger Bus from Milwaukee back to Madison.
+
+You can bring your bicycle on the bus for $10.
