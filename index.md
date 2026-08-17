@@ -37,5 +37,5 @@ My full first name is Mohammadali, but I go by Ali. I’m a PhD student in pure 
 
 - **Fall 26: Instrcutor, Math 96 — Preparatory Algebra**, UW–Madison
 
-## Non-Math
+
 
