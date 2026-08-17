@@ -3,7 +3,7 @@ layout: photography
 title: Stories
 ---
 
-<h1 style="color: #8b1e1e;">Lake Michigan Bike Tour 2026</h1>
+<h1 style="color: #8b1e1e;">Lake Michigan Loop </h1>
 
 I biked the northern part of Lake Michigan in late May and early June 2026 over 12 days. I made it a loop by taking the ferry from Muskegon to Milwaukee. Here are the details.
 
