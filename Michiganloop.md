@@ -135,7 +135,7 @@ The section from Harbor Springs to Charlevoix is a paved bike trail and was one 
 I stayed in a hotel in Charlevoix.
 
 <img
-  src="{{ '/assets/img/DSC03953-2.jpg' | relative_url }}"
+  src="/assets/img/DSC03953-2.jpg"
   alt="Bikepacking around Lake Michigan"
   style="
     width: 850px;
@@ -146,6 +146,23 @@ I stayed in a hotel in Charlevoix.
     margin: 35px auto;
   "
 >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Day 9 — Charlevoix to Traverse City
 
