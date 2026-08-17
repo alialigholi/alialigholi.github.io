@@ -40,7 +40,7 @@ Around 91 miles along US 2. This section is very scenic and fun to ride. My orig
 
 Around 70 miles. The correct way to reach the Bridge Authority building is from the left side, near Bridge View Park. The suggested route from Mackinaw City to Petoskey follows a bike path with loose gravel. I avoided that and instead followed U.S. Bicycle Route 35. The section from Harbor Springs to Charlevoix is a paved bike trail and was one of the most scenic parts of the entire trip. I stayed in a hotel in Charlevoix.
 
-<img src="/assets/img/CHERLOVISX.png" alt="Bikepacking around Lake Michigan" style="width:850px; max-width:100%; height:auto; display:block; border-radius:24px; margin:35px auto;">
+<img src="/assets/img/CHERLOVISX.png" alt="Bikepacking around Lake Michigan" style="width:950px; max-width:100%; height:auto; display:block; border-radius:24px; margin:35px auto;">
 
 ## Day 9 — Charlevoix to Traverse City
 
