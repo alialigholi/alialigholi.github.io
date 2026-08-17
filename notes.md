@@ -9,7 +9,7 @@ title: Notes
 
 
 # Math Talk Notes
-**[Hodge Index Conjecture for Singular Algebraic Varieties.](/hodgeindex.pdf)**
+- **[Hodge Index Conjecture for Singular Algebraic Varieties.](/hodgeindex.pdf)**
 - **[Deligne's solution to Hilbert 21st problem](/21hilbert.pdf)**
    An introduction to Riemann Hilbert problem.
 - **[Arakelov Geometry](/Arakelov.pdf)**
