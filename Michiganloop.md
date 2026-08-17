@@ -8,7 +8,7 @@ title: Stories
 I biked the northern part of Lake Michigan in late May and early June 2026 over 12 days. I made it a loop by taking the ferry from Muskegon to Milwaukee. Here are the details.
 
 <img
-  src="/assets/img/MAPPHOTO.png"
+  src="/assets/img/mapmichigan.png"
   alt="Lake Michigan bike tour route"
   style="
     width: 850px;
