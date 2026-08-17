@@ -1,14 +1,13 @@
 .top-nav {
-  position: fixed;
-  top: 25px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 1000;
+  width: 300px;
+  text-align: center;
+  margin: 0 0 18px 0;
   white-space: nowrap;
 }
 
 .top-nav a {
-  margin: 0 14px;
+  display: inline-block;
+  margin: 0 10px;
   color: #3eb7f0;
   font-size: 15px;
   font-weight: 500;
@@ -18,13 +17,6 @@
 .top-nav a:hover {
   color: #8fdcff;
 }
-
-
-
-
-
-
-
 
 .pub-row {
   display: flex;
@@ -532,6 +524,18 @@ footer {
     top: 52px;
   }
 
+  .top-nav {
+    width: 220px;
+    margin: 0 0 16px 0;
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  .top-nav a {
+    margin: 0 7px;
+    font-size: 14px;
+  }
+
   .image.avatar {
     width: 220px;
     border-radius: 8px;
@@ -599,6 +603,18 @@ footer {
   header li,
   header ul li + li + li {
     width: 33%;
+  }
+
+  .top-nav {
+    width: 180px;
+    margin: 0 auto 14px auto;
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  .top-nav a {
+    margin: 0 5px;
+    font-size: 13px;
   }
 
   .image.avatar {
