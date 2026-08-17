@@ -1,3 +1,30 @@
+.top-nav {
+  position: fixed;
+  top: 25px;
+  right: 40px;
+  z-index: 1000;
+}
+
+.top-nav a {
+  margin-left: 22px;
+  color: #3eb7f0;
+  font-size: 15px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.top-nav a:hover {
+  color: #8fdcff;
+}
+
+
+
+
+
+
+
+
+
 .pub-row {
   display: flex;
   align-items: center;
