@@ -1,5 +1,5 @@
 ---
-layout: nonmath
+layout: homepage
 title: Notes
 ---
 
