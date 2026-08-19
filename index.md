@@ -11,7 +11,7 @@ My full first name is Mohammadali, but I go by Ali. I’m a PhD student in pure 
 
 - **Hodge Theory and Topology of Singular Complex Algebraic Varieties**
 - **Relations Between Algebraic, Topological, and Analytic K-Theory**
--  **Interactions of char-p Geometry with Complex Geometry**
+//-  **Interactions of char-p Geometry with Complex Geometry**
 
 
 
