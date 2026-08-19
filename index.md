@@ -9,8 +9,9 @@ My full first name is Mohammadali, but I go by Ali. I’m a PhD student in pure 
 
 ## Research Interests
 
-- **Hodge Theory and Topology of Complex Algebraic Varieties**
+- **Hodge Theory and Topology of Singular Complex Algebraic Varieties**
 - **Relations Between Algebraic, Topological, and Analytic K-Theory**
+-  **Interactions of char-p geometry with complex geometry**
 
 
 
@@ -24,7 +25,7 @@ My full first name is Mohammadali, but I go by Ali. I’m a PhD student in pure 
 
 ## Conferences
 - **Geometry and Topology of Hypersurfaces, AMS Southeastern Sectional Meeting**, Oct. 2026, Kennesaw, GA
-- **Singularities in topology and physics, ICM 2026 Satellite Conference**, Aug. 2026,  University of Notre Dame, IN
+- **Singularities in Topology and Physics, ICM 2026 Satellite Conference**, Aug. 2026,  University of Notre Dame, IN
 - **Singularities in the Midwest, X**, May 2026,  Madison, WI
 - **Riemann-Hilbert and Singularities of Algebraic Varieties, AMS Eastern Sectional Meeting**, Apr. 2026 , Boston, MA
 - **2025 Summer Research Institute in Algebraic Geometry,**, July 2025, Colorado State University in Fort Collins, CO
