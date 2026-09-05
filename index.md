@@ -18,7 +18,7 @@ My full first name is Mohammadali, but I go by Ali. I’m a 5th-year PhD student
 
 - **Around a class version of the Hodge index theorem for singular varieties**  
   with Laurentiu Maxim and Jörg Schürmann  
-  [arXiv:2511.08780](https://arxiv.org/abs/2511.08780)
+  Submitted. [arXiv:2511.08780](https://arxiv.org/abs/2511.08780)
 
 
 
