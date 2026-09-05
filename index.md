@@ -10,7 +10,7 @@ My full first name is Mohammadali, but I go by Ali. I’m a 5th-year PhD student
 ## Research Interests
 
 - **Hodge Theory and Topology of Singular Complex Algebraic Varieties**
-- **Relations Between Algebraic, Topological, and Analytic K-Theory**
+- **Analytic and Topological Realizations of Algebraic Objects in K-Theory**
 
 
 
