@@ -27,7 +27,7 @@ My full first name is Mohammadali, but I go by Ali. I’m a 5th-year PhD student
 - **Singularities in Topology and Physics, ICM 2026 Satellite Conference**, Aug. 2026,  University of Notre Dame, IN
 - **Singularities in the Midwest, X**, May 2026,  Madison, WI
 - **Riemann-Hilbert and Singularities of Algebraic Varieties, AMS Eastern Sectional Meeting**, Apr. 2026 , Boston, MA
-- **2025 Summer Research Institute in Algebraic Geometry,**, July 2025, Colorado State University in Fort Collins, CO
+- **2025 Summer Research Institute in Algebraic Geometry**, July 2025, Colorado State University in Fort Collins, CO
 - **Derived Categories and Mirror Symmetry**, May 2025,  UW-Madison, WI
 - **Singularities in the Midwest, IX**, Apr. 2025,  UW-Madison, WI
 - **Arithmetic and Topology Over Global Fields**, Oct. 2022,  UW-Madison, WI
