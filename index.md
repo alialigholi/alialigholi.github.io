@@ -16,6 +16,9 @@ My full first name is Mohammadali, but I go by Ali. I’m a 5th-year PhD student
 
 ## Publications and Preprints
 
+- **On the conjectural Hodge index theorem for finite quotient spaces of singular varieties**    
+  [arXiv:2610.09171](https://arxiv.org/abs/2610.09171)
+
 - **Around a class version of the Hodge index theorem for singular varieties**  
   with Laurentiu Maxim and Jörg Schürmann  
   Submitted. [arXiv:2511.08780](https://arxiv.org/abs/2511.08780)
