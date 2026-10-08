@@ -10,9 +10,8 @@ My full first name is Mohammadali, but I go by Ali. I’m a 5th-year PhD student
 ## Research Interests
 
 - **Mixed Hodge Modules and Topology of Singular Complex Algebraic Varieties**
+- **Topology and Global Analysis of Stratified Pseudomanifolds**
 - **Analytic Realizations of Topological and Algebraic Objects in analytic K-Theory**
-
-
 
 ## Publications and Preprints
 
