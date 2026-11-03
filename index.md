@@ -15,12 +15,12 @@ My full first name is Mohammadali, but I go by Ali. I’m a 5th-year PhD student
 
 ## Publications and Preprints
 
+- **S_n-equivariant L-classes of Cartesian powers of Witt spaces and the Hodge index conjecture for symmetric products**    
+  Submitted. [arXiv:2611.02577](https://arxiv.org/abs/2611.02577)
 - **Triviality of K-homology classes of Euler characteristic operators of  stratified pseudomanifolds**    
   Submitted. [arXiv:2610.27476](https://arxiv.org/abs/2610.27476)
-
 - **On the conjectural Hodge index theorem for finite quotient spaces of singular varieties**    
   Submitted. [arXiv:2610.09171](https://arxiv.org/abs/2610.09171)
-
 - **Around a class version of the Hodge index theorem for singular varieties**  
   with Laurentiu Maxim and Jörg Schürmann  
   Submitted. [arXiv:2511.08780](https://arxiv.org/abs/2511.08780)
